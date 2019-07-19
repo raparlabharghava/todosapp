@@ -1,4 +1,4 @@
-//this is the test application created for todo list
+//this is the test application created for todo list updated
 import React from 'react';
 import './App.css';
 import Todos from './todos/Todos';
